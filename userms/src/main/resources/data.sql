@@ -1,0 +1,5 @@
+insert into user(id,name) values (10001,'User1')
+insert into user(id,name) values (10002,'User2')
+insert into user(id,name) values (10003,'User3')
+insert into user(id,name) values (10004,'User4')
+insert into user(id,name) values (10005,'User5')

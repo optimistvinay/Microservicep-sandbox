@@ -1,0 +1,6 @@
+insert into order_data (name) values ('MAC')
+insert into order_data (name) values ('Iphone')
+insert into order_data (name) values ('Imac')
+insert into order_data (name) values ('Lenova')
+insert into order_data (name) values ('HP')
+insert into order_data (name) values ('Samsung')
